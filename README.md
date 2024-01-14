@@ -7,4 +7,8 @@
 
 </div>
 
- 
+<br />
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
